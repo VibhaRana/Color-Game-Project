@@ -1,4 +1,4 @@
-Color-Game-Project
+<h1>Color-Game-Project</h1>
 This is a JavaScript based game application that generates new colors everytime and player need to guess the right color.
 
 Build with:
